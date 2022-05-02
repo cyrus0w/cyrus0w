@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @cyrus0w
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me cyrus0.wu@qq.com
 
 <!--
 **cyrus0w/cyrus0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
