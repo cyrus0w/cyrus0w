@@ -5,7 +5,7 @@
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
-- 📚 My blog: https://opsarts.com/about/
+- 📚 My blog: [OpsArts](https://opsarts.com)
 - 📫 How to reach me cyrus0.wu@qq.com
 
 <!--
