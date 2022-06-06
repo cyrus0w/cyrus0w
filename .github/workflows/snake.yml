@@ -8,6 +8,8 @@ on:
   schedule:
     # every 6 hours
     - cron: "0 */6 * * *"
+  watch:
+    types: [started]
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
