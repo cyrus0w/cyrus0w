@@ -10,6 +10,10 @@
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a> [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+<p align="center">
+  <img src="https://github.com/cyrus0w/Vincentqyw/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!--
 **cyrus0w/cyrus0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
