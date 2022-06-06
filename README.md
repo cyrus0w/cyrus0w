@@ -14,6 +14,8 @@
   <img src="https://github.com/cyrus0w/Vincentqyw/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+![https://github.com/cyrus0w/Vincentqyw/blob/output/github-contribution-grid-snake.svg](github-snake-dark.svg#gh-dark-mode-only)
+
 <!--
 **cyrus0w/cyrus0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
