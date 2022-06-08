@@ -9,6 +9,7 @@
 - 📫 How to reach me cyrus0.wu@qq.com
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a> [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/cyrus0w/cyrus0w@output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
