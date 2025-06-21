@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 👋 Hi, I’m @cyrus0w 👱‍♂️
 
 [![Cyrus0w's github stats](https://github-readme-stats.vercel.app/api?username=cyrus0w&count_private=true&show_icons=true&theme=radical)](https://cyrus0w.github.io) 
