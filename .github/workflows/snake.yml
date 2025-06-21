@@ -27,7 +27,7 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # 定义job最大运行时长，超过时间自动取消job
-    timeout-minutes: 10
+    #timeout-minutes: 10
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
