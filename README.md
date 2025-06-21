@@ -12,9 +12,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/cyrus0w/cyrus0w@output/github-contribution-grid-snake.svg" alt="snake"></center>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cyrus0w/cyrus0w@output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cyrus0w/cyrus0w@output/github-snake.svg">
+    <img alt="contribution snake" src="https://cdn.jsdelivr.net/gh/cyrus0w/cyrus0w@output/github-snake.svg">
   </picture>
 </p>
 
